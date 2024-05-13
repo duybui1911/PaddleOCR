@@ -5,7 +5,7 @@ Global:
   log_smooth_window: 20
   print_batch_step: 100
   save_model_dir: ./output/rec_ppocr_v4
-  save_epoch_step: 10
+  save_epoch_step: 2
   eval_batch_step:
   - 0
   - 2000
