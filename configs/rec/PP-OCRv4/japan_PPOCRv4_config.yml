@@ -142,7 +142,7 @@ Eval:
         - length
         - valid_ratio
   loader:
-    shuffle: true
+    shuffle: false
     drop_last: false
     batch_size_per_card: 64
     num_workers: 4
